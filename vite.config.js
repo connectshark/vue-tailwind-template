@@ -16,6 +16,6 @@ export default defineConfig({
     }
   },
   base: process.env.NODE_ENV === 'production'
-    ? '/vite-tailwind-template/'
+    ? '/vue-tailwind-template/'
     : '/'
 })
