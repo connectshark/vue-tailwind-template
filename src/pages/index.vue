@@ -2,5 +2,7 @@
 </script>
 
 <template>
-  <h1 class=" text-white text-3xl">Hi</h1>
+<section>
+  <h1 class=" text-3xl/loose text-center">Hi</h1>
+</section>
 </template>
