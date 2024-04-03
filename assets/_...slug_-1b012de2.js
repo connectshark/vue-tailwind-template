@@ -1,1 +1,0 @@
-import{_ as o,r as s,o as c,c as n,a as e,b as a,w as r,d as _}from"./index-5cf1ab5b.js";const l={},d={class:"text-center"},i=e("h1",{class:"text-3xl/loose"},"404",-1);function u(x,f){const t=s("router-link");return c(),n("section",d,[i,e("p",null,[a(t,{class:"underline",to:"/"},{default:r(()=>[_("回首頁")]),_:1})])])}const m=o(l,[["render",u]]);export{m as default};
