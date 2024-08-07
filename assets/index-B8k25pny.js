@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as o}from"./index-D5Z5BeM_.js";const s={},n=o("h1",{class:"text-3xl/loose text-center"},"Hi",-1),a=[n];function r(_,l){return t(),c("section",null,a)}const d=e(s,[["render",r]]);export{d as default};
