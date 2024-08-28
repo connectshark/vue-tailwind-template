@@ -1,5 +1,6 @@
 {
   "name": "vue-tailwind-template",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/connectshark/vue-tailwind-template"
@@ -17,16 +18,16 @@
   },
   "dependencies": {
     "pinia": "^2.1.7",
-    "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.4",
+    "@vitejs/plugin-vue": "^5.0.5",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3",
-    "unplugin-vue-router": "^0.8.5",
-    "vite": "^5.2.7",
-    "vite-plugin-vue-devtools": "^7.0.25"
+    "unplugin-vue-router": "^0.10.2",
+    "vite": "^5.3.1",
+    "vite-plugin-vue-devtools": "^7.3.1"
   }
 }

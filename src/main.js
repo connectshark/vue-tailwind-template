@@ -1,11 +1,11 @@
 import { createApp } from 'vue'
-import { createPinia } from 'pinia'
+import { pinia } from './stores'
 import './index.css'
 
 import App from './App.vue'
-import router from './router'
+import { router } from './router'
 
 createApp(App)
-  .use(createPinia())
+  .use(pinia)
   .use(router)
   .mount('#app')

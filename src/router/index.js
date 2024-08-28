@@ -1,7 +1,16 @@
-import { createRouter, createWebHashHistory } from 'vue-router/auto'
+import { createRouter, createWebHashHistory } from 'vue-router'
+import { routes, handleHotUpdate } from 'vue-router/auto-routes'
 
-const router = createRouter({
-  history: createWebHashHistory(import.meta.env.BASE_URL)
+export const router = createRouter({
+  history: createWebHashHistory(),
+  routes,
+  scrollBehavior (to, from) {
+    return { top: 0 }
+  }
 })
 
 export default router
+
+if (import.meta.hot) { 
+  handleHotUpdate(router) 
+} 
