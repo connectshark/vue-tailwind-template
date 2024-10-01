@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as c,a as o}from"./index-Kov2bMAd.js";const s={},n=o("h1",{class:"text-3xl/loose text-center"},"Hi",-1),a=[n];function r(_,l){return c(),t("section",null,a)}const d=e(s,[["render",r]]);export{d as default};

@@ -1,1 +1,0 @@
-import{_ as o,r as s,c,a as e,b as n,w as a,o as r,d as _}from"./index-Kov2bMAd.js";const l={},d={class:"text-center"},i=e("h1",{class:"text-3xl/loose"},"404",-1);function u(x,f){const t=s("router-link");return r(),c("section",d,[i,e("p",null,[n(t,{class:"underline",to:"/"},{default:a(()=>[_("回首頁")]),_:1})])])}const m=o(l,[["render",u]]);export{m as default};
