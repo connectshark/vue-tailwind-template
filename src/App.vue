@@ -2,5 +2,13 @@
 </script>
 
 <template>
-  <router-view />
+  <header>
+
+  </header>
+  <main>
+    <router-view />
+  </main>
+  <footer>
+    
+  </footer>
 </template>
