@@ -21,11 +21,11 @@
 - [版權](#版權)
 ## 專案已安裝內容
 
-- vite
-- vue3
+- vite `5`
+- vue `3`
 - pinia
-- vue-router4
-- tailwindcss
+- vue-router
+- tailwindcss `4`
 - github action自動部署至 `gh-page`
 
 ## 使用模板的優勢
