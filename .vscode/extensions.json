@@ -1,0 +1,4 @@
+{
+  "recommendations": ["johnsoncodehk.volar"],
+  "typescript.preferences.autoImportFileExcludePatterns": ["vue-router"]
+}
