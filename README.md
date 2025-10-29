@@ -21,7 +21,7 @@
 - [版權](#版權)
 ## 專案已安裝內容
 
-- vite `5`
+- vite `7`
 - vue `3`
 - pinia
 - vue-router
