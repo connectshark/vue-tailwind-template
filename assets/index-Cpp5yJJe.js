@@ -1,1 +1,0 @@
-import{_ as t,c as o,a as s,o as n}from"./index-Cp6Iyzc5.js";const c={};function r(a,e){return n(),o("section",null,[...e[0]||(e[0]=[s("h1",{class:"text-3xl/loose text-center"},"Hi",-1)])])}const x=t(c,[["render",r]]);export{x as default};
