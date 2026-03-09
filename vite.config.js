@@ -8,7 +8,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 /** @type {import('vite').UserConfig} */
 export default defineConfig({
-  plugins: [vue(), VueRouter(), VueDevTools(), tailwindcss()],
+  plugins: [VueRouter(), vue(), VueDevTools(), tailwindcss()],
   server: {
     port: 8080
   },
