@@ -1,0 +1,1 @@
+import{n as e,o as t,r as n,t as r}from"./index-BCykba_o.js";var i={};function a(r,i){return t(),n(`section`,null,[...i[0]||=[e(`h1`,{class:`text-3xl/loose text-center`},`Hi`,-1)]])}var o=r(i,[[`render`,a]]);export{o as default};

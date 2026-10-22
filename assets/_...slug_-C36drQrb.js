@@ -1,0 +1,1 @@
+import{a as e,c as t,i as n,n as r,o as i,r as a,s as o,t as s}from"./index-BCykba_o.js";var c={},l={class:`text-center`};function u(s,c){let u=o(`router-link`);return i(),a(`section`,l,[c[1]||=r(`h1`,{class:`text-3xl/loose`},`404`,-1),r(`p`,null,[e(u,{class:`underline`,to:`/`},{default:t(()=>[...c[0]||=[n(`回首頁`,-1)]]),_:1})])])}var d=s(c,[[`render`,u]]);export{d as default};
